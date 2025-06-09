@@ -2,7 +2,7 @@
 📟 Introduction
 This project focuses on analyzing sales data from a US-based e-commerce store. The goal is to uncover
 patterns in customer behavior and provide actionable insights to improve sales performance and customer
-engagement.
+engagement.  
 📈 Analysis Steps
 Before diving into the specific findings, we followed the traditional data analysis workflow:
 Data Collection 🗂 – Gathering raw sales data from the e-commerce system.
